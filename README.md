@@ -48,7 +48,7 @@ NOTE : FREQUENTLY ASKED QUESTIONS
 	No, it is not necessary.
 
 
-11. Under which license you are providing these templates?
+9. Under which license you are providing these templates?
 
 	Template Stock templates are under Creative Commons Attribution 3.0 unported
 
