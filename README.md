@@ -10,9 +10,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 NOTE : FREQUENTLY ASKED QUESTIONS 
 ----------------------------------
 
-1. What is Template Stock?
+1. What is c?
 
-	Template Stock is an initiative of AgileITs to provide free web designs which are cross device supported.
+	Template Stock market is an initiative of AgileITs to provide free web designs which are cross device supported.
 
 2. Is Template Stock Templates Really Free?
 
