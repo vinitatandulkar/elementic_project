@@ -8,6 +8,11 @@
 	text-align: center;
 }
 
+.owl-theme .owl-controls-aids{
+	margin-left: 20px;
+	text-align: right;
+}
+
 /* Styling Next and Prev buttons */
 
 .owl-theme .owl-controls .owl-buttons div{
